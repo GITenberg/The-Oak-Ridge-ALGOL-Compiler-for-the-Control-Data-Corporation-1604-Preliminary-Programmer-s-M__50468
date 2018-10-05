@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Oak Ridge ALGOL Compiler for the Control Data Corporation 1604
 
   Preliminary Programmer''s Manual'
